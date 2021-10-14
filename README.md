@@ -1,2 +1,2 @@
 # Projeto-Sistemas-Termicos  
-Projeto em andamento , conforme forem tendo novcas atualizações as mesmas serão feitas aqui
+Projeto em andamento , conforme forem tendo novas atualizações  as mesmas saerão colocadas aqui
